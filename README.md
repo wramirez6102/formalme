@@ -1,4 +1,4 @@
-## formalme
+## wendy ramirez resume portal
 ### major projects in support of the Bachelors of Business Administration at California State Polytecnic University, Pomona, CA (Cal Poly)
 1. business intelegence for excel
 2. advance analytics, Python/Pandas
